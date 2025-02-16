@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 from split_image import split_image
 
